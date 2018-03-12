@@ -1,7 +1,7 @@
 lendingClubProject
 ==============================
 
-EDA and Risk Analysis with ML
+EDA and Risk Analysis with ML. Check the notebooks for the current notebooks. 
 
 Project Organization
 ------------
